@@ -1,0 +1,1 @@
+export { AddPosts } from "./AddPosts";

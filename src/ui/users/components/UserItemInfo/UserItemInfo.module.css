@@ -1,0 +1,19 @@
+.userInfo {
+  display: flex;
+  flex-direction: column;
+  font-size: 24px;
+  margin-bottom: 20px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  list-style: none;
+}
+
+.backBtn {
+  width: 100px;
+  padding: 5px 0;
+  font-weight: 700;
+}
+
+.greyText {
+  font-size: 18px;
+  color: rgb(91, 90, 90);
+}

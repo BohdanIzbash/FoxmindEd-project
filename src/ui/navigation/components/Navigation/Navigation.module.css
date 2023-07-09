@@ -1,0 +1,7 @@
+.nav {
+  list-style: none;
+  cursor: pointer;
+  margin-left: 40%;
+  margin-top: 50px;
+  font-size: 30px;
+}

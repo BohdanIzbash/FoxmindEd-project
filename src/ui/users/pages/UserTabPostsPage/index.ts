@@ -1,0 +1,1 @@
+export { UserTabPostsPage } from "./UserTabPostsPage";

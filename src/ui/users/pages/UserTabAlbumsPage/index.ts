@@ -1,0 +1,1 @@
+export { UserTabAlbumsPage } from "./UserTabAlbumsPage";

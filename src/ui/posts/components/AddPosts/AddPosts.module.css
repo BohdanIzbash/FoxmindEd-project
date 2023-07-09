@@ -1,0 +1,40 @@
+.formField {
+  border: 2px solid rgb(75, 73, 73);
+  border-radius: 5px;
+  width: 300px;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 15px;
+  margin-bottom: 20px;
+  color: blueviolet;
+  background-color: rgb(245, 238, 229);
+}
+
+.postForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.inputField {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  height: 25px;
+}
+
+.formBtn {
+  width: 150px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  background-color: aquamarine;
+  cursor: pointer;
+}
